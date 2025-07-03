@@ -59,3 +59,5 @@ for archivo in archivos_cargues:
 
 print("Todos los cargues han sido procesados.")
 driver.quit()
+
+# ===================== CIERRE DEL NAVEGADOR =====================
